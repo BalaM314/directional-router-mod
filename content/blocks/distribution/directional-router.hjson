@@ -1,0 +1,8 @@
+type: DuctRouter
+size: 1
+requirements: [
+	copper/4
+]
+category: distribution
+research: router
+speed: 6

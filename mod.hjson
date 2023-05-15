@@ -1,0 +1,10 @@
+{
+	name: "drouter"
+	displayName: "Directional Router"
+	author: "BalaM314"
+	description: "Adds a directional router to Serpulo."
+	version: "1.0"
+	minGameVersion: "136.1"
+	dependencies: [ ]
+	hidden: false
+}
